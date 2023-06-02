@@ -2,7 +2,7 @@
 
 no is my first Minecraft map.  
 It is first shown as a broken map in Yahiamice's second map contest.
-[See the VOD of the stream](https://youtu.be/Tty11zQjpg8)
+[See the VOD of the stream](https://youtu.be/Tty11zQjpg8?t=5116)
 
 ## What to expect
 no has 3 stages:
