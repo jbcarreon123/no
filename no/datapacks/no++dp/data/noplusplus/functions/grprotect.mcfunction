@@ -1,0 +1,15 @@
+gamerule keepInventory true
+gamerule reducedDebugInfo true
+gamerule commandBlockOutput false
+gamerule disableRaids false
+gamerule doDaylightCycle false
+time set day
+gamerule doFireTick false
+gamerule doImmediateRespawn true
+gamerule doLimitedCrafting true
+gamerule doMobSpawning false
+gamerule doPatrolSpawning false
+gamerule forgiveDeadPlayers false
+gamerule showDeathMessages false
+gamerule spawnRadius 0
+gamerule universalAnger true
